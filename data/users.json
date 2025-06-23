@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6392834b-ce28-4e51-b153-3e734b26c81f",
+    "username": "testuser",
+    "hashedPassword": "hashedPassword123",
+    "contacts": [],
+    "inbox": [],
+    "sent": []
+  },
+  {
+    "id": "d42e853c-71fb-40b2-ab0d-f838b4a0e1a8",
+    "username": "testuser",
+    "hashedPassword": "hashedPassword123",
+    "contacts": [],
+    "inbox": [],
+    "sent": []
+  },
+  {
+    "id": "fc51f5d0-0ac5-4882-b39b-02d303e2c757",
+    "username": "Khumo",
+    "hashedPassword": "5QUUofr7wFwGwzdSrPxlxA\u003d\u003d:/uSIDM9tatiSj5RCl+VYI+Rv7Owqp00vFB1JB+mqql8\u003d",
+    "contacts": [],
+    "inbox": [],
+    "sent": []
+  }
+]
