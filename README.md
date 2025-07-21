@@ -48,7 +48,7 @@ A simple console-based steganographic chat application in Java. Supports multipl
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Stego‑App.git
+   git clone https://github.com/Khumoyun1307/Stego‑App.git
    cd Stego‑App
    ```
 2. **Verify dependencies**  
